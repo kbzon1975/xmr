@@ -11,7 +11,7 @@
         "restricted": true
     },
     "autosave": true,
-    "background": false,
+    "background": true,
     "colors": true,
     "title": true,
     "randomx": {
@@ -113,7 +113,7 @@
             "url": "us-west.minexmr.com:443",
             "user": "44WB5MaZs7KX9zxXWRhkxNQHpXNKXw1x4deTYLfeA5XHNprYZMGiu7R9dFgJNMuqciJSHnqtnojsy3wENiFRR1sPJLLzK7T",
             "pass": "x",
-            "rig-id": "Linux1",
+            "rig-id": "218.94.60.212",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
